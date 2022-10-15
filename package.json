@@ -1,0 +1,14 @@
+{
+  "name": "basic-of-redux",
+  "version": "1.0.0",
+  "description": "basic code of redux.",
+  "main": "redux-basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adil Ahamad",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
